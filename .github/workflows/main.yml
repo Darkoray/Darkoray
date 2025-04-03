@@ -3,33 +3,27 @@ name: Waka Readme Stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC every day
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
 
 jobs:
   update-readme:
-    name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Required to update README
+      
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Update Readme with Waka Stats
+        uses: actions/checkout@v4  # Updated from v2 to v4
+        
+      - name: Update Waka Stats
         uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Changed from GH_TOKEN to GITHUB_TOKEN
           
-          SHOW_TITLE: true                # Show title (default: true)
-          SHOW_TOTAL: true                # Show total coding time (default: true)
-          SHOW_PROFILE: true              # Show profile visits (default: true)
-          SHOW_LINES_OF_CODE: true        # Show lines of code (default: true)
-          SHOW_LANGUAGE_PER_REPO: true    # Show languages per repo (default: true)
-          SHOW_LOC_CHART: true            # Show LOC chart (default: true)
-          SHOW_OS: true                   # Show operating system stats (default: true)
-          SHOW_PROJECTS: true             # Show projects (default: true)
-          SHOW_EDITORS: true              # Show editors (default: true)
-          SHOW_LANGUAGES: true            # Show languages (default: true)
-          SHOW_TIMEZONE: true             # Show timezone (default: true)
-          SHOW_COMMIT: true               # Show last commit (default: true)
-          LOCALE: en                      # Language for output (default: en)
-          TIME_RANGE: last_7_days         # Time range for stats (options: last_7_days, last_30_days, last_6_months, last_year, all_time)
+          # Optional settings (your selections are fine):
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_LANGUAGES: true
+          TIME_RANGE: last_7_days
