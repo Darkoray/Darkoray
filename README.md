@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Hi, I'm Darkoray</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkoray&label=Profile%20views&color=0e75b6&style=flat" alt="darkoray" /> </p>
