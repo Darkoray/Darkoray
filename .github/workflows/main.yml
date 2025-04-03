@@ -1,25 +1,23 @@
-name: Waka Readme Stats
+name: Waka Readme Stats  # This MUST be the first line
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # Required to update README
-      
+      contents: write
+    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4  # Updated from v2 to v4
-        
+      - uses: actions/checkout@v4
       - name: Update Waka Stats
         uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Changed from GH_TOKEN to GITHUB_TOKEN
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
           # Optional settings (your selections are fine):
           SHOW_TITLE: true
