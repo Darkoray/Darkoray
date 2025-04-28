@@ -1,8 +1,7 @@
-<h1 align="center">
-    Hi, I'm Darkoray 👋
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20profile;%20Check%20out%20my%20projects;%20Always%20Learning%20New%20Things;%20Building%20cool%20projects&center=true&width=1000&height=100">
-</h1>
-
+<h1 align="center">Hi, I'm Darkoray 👋</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20profile;%20Check%20out%20my%20projects;%20Always%20Learning%20New%20Things;%20Building%20cool%20projects&center=true&width=1000&height=100">
+</p>
 
 ---
 
