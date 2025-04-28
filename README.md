@@ -1,10 +1,8 @@
 <h1 align="center">
-    Hi, I'm <a href="https://github.com/Darkoray" target="_blank">Darkoray</a> 👋
+    Hi, I'm Darkoray 👋
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20profile;%20Check%20out%20my%20projects;%20Always%20Learning%20New%20Things;%20Building%20cool%20projects&center=true&width=1000&height=100">
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught%20Developer;Frontend%20Lover;Always%20Learning%20New%20Things;Building%20cool%20projects&center=true&width=500&height=45">
-</p>
 
 ---
 
