@@ -35,7 +35,7 @@
 
 <br>
 
-[![WakaTime Badge](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86)
+[![WakaTime Badge](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86.svg?style=for-the-badge)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86)
 
 </div>
 
