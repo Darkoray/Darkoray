@@ -27,8 +27,17 @@
 <img src="https://wakatime.com/share/@72594c02-0009-4d68-ba8b-6bc52b500d86/dca35037-48d3-4655-92d3-b1196915b819.svg" width="100%">
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Darkoray&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Darkoray&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+<table>
+<tr>
+<td width="50%">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Darkoray&theme=transparent&hide_border=true" width="100%">
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Darkoray&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="100%">
+</td>
+</tr>
+</table>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Darkoray&icon=0&color=0)](https://visitcount.itsvg.in)
