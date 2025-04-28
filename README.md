@@ -12,16 +12,9 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Darkoray&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%">
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Darkoray&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="100%">
-</td>
-</tr>
-</table>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Darkoray&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=Darkoray&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="70%">
 
 </div>
 
