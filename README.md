@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/soadul.islam.71)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soadul.islam.71)
@@ -20,6 +17,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# ⏲️ Coding Activity:
+
+<img src="https://wakatime.com/share/@72594c02-0009-4d68-ba8b-6bc52b500d86/dca35037-48d3-4655-92d3-b1196915b819.svg" width="100%">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Darkoray&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
