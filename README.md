@@ -10,7 +10,9 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 About Me
+<div align="center">
+  <h2>🎯 About Me</h2>
+</div>
 
 <table border="0" cellpadding="10" cellspacing="0">
 <tr>
@@ -44,11 +46,12 @@ const darkoray = {
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darkoray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=58A6FF&border_radius=10"/>
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darkoray&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&border_radius=10"/>
 </div>
 
 <br/>
@@ -65,7 +68,9 @@ const darkoray = {
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⏲️ Coding Activity
+<div align="center">
+  <h2>⏲️ Coding Activity</h2>
+</div>
 
 <div align="center">
   <a href="https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86">
@@ -79,7 +84,9 @@ const darkoray = {
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack & Tools
+<div align="center">
+  <h2>💻 Tech Stack & Tools</h2>
+</div>
 
 <div align="center">
 
@@ -116,7 +123,9 @@ const darkoray = {
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
-## 🏆 GitHub Trophies
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Darkoray&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="90%"/>
@@ -125,7 +134,9 @@ const darkoray = {
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
 
-## 🌐 Let's Connect!
+<div align="center">
+  <h2>🌐 Let's Connect!</h2>
+</div>
 
 <div align="center">
   
