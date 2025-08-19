@@ -1,93 +1,180 @@
-<h1 align="center">Hi, I'm Darkoray 👋</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20profile;%20Check%20out%20my%20projects;%20Always%20Learning%20New%20Things;%20Building%20cool%20projects&center=true&width=1000&height=100">
-</p>
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
-
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Darkoray&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%">
-<img src="https://github-readme-stats.vercel.app/api?username=Darkoray&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="70%">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Darkoray!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
----
-
-# ⏲️ Coding Activity
-
 <div align="center">
-
-<img src="https://wakatime.com/share/@72594c02-0009-4d68-ba8b-6bc52b500d86/dca35037-48d3-4655-92d3-b1196915b819.svg" width="90%">
-
-<br>
-
-[![WakaTime Badge](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86.svg?style=for-the-badge)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;💻+Frontend+Enthusiast;🎨+UI/UX+Designer;⚛️+React+Learner;🌟+Always+Learning!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=36BCF7&vCenter=true&size=22"/>
 </div>
 
----
+<br/>
 
-# 💻 Tech Stack
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 About Me
+
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+```javascript
+const darkoray = {
+    pronouns: "He" | "Him",
+    age: 20,
+    location: "Dhaka, Bangladesh 🇧🇩",
+    currentFocus: "Frontend Development",
+    learning: [ "React", "Next.js", "TailwindCss" ],
+    interests: [ "Web Development", "UI/UX Design" ],
+    funFact: "I debug with console.log() and I'm proud of it! :P",
+    goal: "Building cool and flashy websites! :3"
+};
+```
+
+</td>
+<td width="50%" align="center" valign="top">
+<img alt="Coding Animation" width="95%" src="hi.gif">
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darkoray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=58A6FF&border_radius=10"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darkoray&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&border_radius=10"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Darkoray&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=36BCF7&fire=58A6FF&currStreakLabel=FFFFFF&border_radius=10" width="75%">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkoray&bg_color=0D1117&color=FFFFFF&line=36BCF7&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10" width="95%">
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⏲️ Coding Activity
+
+<div align="center">
+  <a href="https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86">
+    <img src="https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86.svg?style=for-the-badge&color=36BCF7" alt="Total time coded since Feb 21 2025" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://wakatime.com/share/@72594c02-0009-4d68-ba8b-6bc52b500d86/dca35037-48d3-4655-92d3-b1196915b819.svg" width="95%">
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkoray&theme=transparent&hide_border=true&layout=compact&langs_count=8" width="50%">
-
-<br><br>
-
-#### ✅ Comfortable With 
+### 🚀 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-#### 🚧 Currently Learning 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+### 🛠️ Tools & Platforms
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🎯 Currently Learning
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-#### 🧠 Up Next
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+### 🔮 Future Goals
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### 🤔Interested In
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+### 🤔 Interested In
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🌐 Connect with Me
+<!--
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/soadul.islam.71)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soadul.islam.71)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801312211260)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/743413210517995530)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soadul-islam)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Darkoray69)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27353268)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/darkoray69)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Darkoray)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soadulislam1234@gmail.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Darkoray&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="90%"/>
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
+
+## 🌐 Let's Connect!
 
 <div align="center">
-
-[![Visitors](https://komarev.com/ghpvc/?username=Darkoray&style=for-the-badge&color=0e75b6&label=VISITORS)](https://github.com/Darkoray)
+  
+  ### 💬 Social Media
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/soadul.islam.71)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soadul.islam.71)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/darkoray69)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soadul-islam)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Darkoray69)
+  
+  ### 💼 Professional
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27353268)
+  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Darkoray)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soadulislam1234@gmail.com)
+  
+  ### 💻 Chat & Gaming
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/743413210517995530)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801312211260)
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Darkoray&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+-->
+
+<div align="center">
+  
+  ### 📊 Profile Stats
+  ![Visitors](https://komarev.com/ghpvc/?username=Darkoray&style=for-the-badge&color=36BCF7&label=Profile+Views)
+  ![Followers](https://img.shields.io/github/followers/Darkoray?style=for-the-badge&color=58A6FF&labelColor=0D1117)
+  ![Stars](https://img.shields.io/github/stars/Darkoray?style=for-the-badge&color=36BCF7&labelColor=0D1117)
+
+  <br/><br/>
+  
+  **⭐️ From [Darkoray](https://github.com/Darkoray) | Made with 💖 and lots of ☕**
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
