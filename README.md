@@ -80,14 +80,14 @@ Movie rating app with watchlist using OMDb API.
 <tr>
 <td width="33%" valign="top">
 
-#### 🌴 [Far Away](https://darkoray.github.io/Far-Away-App/)
+#### 🌴 [Far Away](https://darkoray.github.io/Far-Away-App/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Far-Away-App.svg)](https://wakatime.com/badge/github/Darkoray/Far-Away-App)
 
 Travel packing list with progress tracking.
 
 </td>
 <td width="33%" valign="top">
 
-#### 🍴 [Forkify](https://github.com/Darkoray/Forkify)
+#### 🍴 [Forkify](https://github.com/Darkoray/Forkify) [![wakatime](https://wakatime.com/badge/github/Darkoray/forkify-app.svg)](https://wakatime.com/badge/github/Darkoray/forkify-app)
 
 Recipe search app with bookmarking.
 
