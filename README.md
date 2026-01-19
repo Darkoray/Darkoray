@@ -46,6 +46,134 @@ const darkoray = {
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>🚀 My Projects</h2>
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### ✊✋✌️ [Rock Paper Scissors](https://darkoray.github.io/Rock-Paper-Scissors/) [![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4)
+
+Classic game against the computer.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 [React Quiz](https://darkoray.github.io/react-quiz/)
+
+Interactive React quiz with timer and high scores.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🍿 [usePopcorn](https://darkoray.github.io/usePopcorn/)
+
+Movie rating app with watchlist using OMDb API.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🌴 [Far Away](https://darkoray.github.io/Far-Away-App/)
+
+Travel packing list with progress tracking.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🍴 [Forkify](https://github.com/Darkoray/Forkify)
+
+Recipe search app with bookmarking.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗺️ [Mapty](https://darkoray.github.io/Mapty/)
+
+Geo-based workout tracker on interactive map.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🧮 [Calculator](https://darkoray.github.io/Calculator/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Calculator.svg)](https://wakatime.com/badge/github/Darkoray/Calculator)
+
+Functional calculator with keyboard support.
+
+</td>
+<td width="33%" valign="top">
+
+#### ❌⭕ [Tic-Tac-Toe](https://darkoray.github.io/Tic-tac-toe/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe.svg)](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe)
+
+Classic tic-tac-toe with DOM manipulation.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔢 [Guess the Number](https://darkoray.github.io/Guess-the-number/)
+
+Number guessing game with score tracking.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🎲 [Pig Game](https://darkoray.github.io/pig-game/)
+
+Two-player dice game. First to 100 wins!
+
+</td>
+<td width="33%" valign="top">
+
+#### 🏔️ [Natours](https://darkoray.github.io/Natours/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Natours.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/mqaufpkmyc)
+
+Adventure tour site with Sass and animations.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧘 [Serenity Spa](https://serenity-spa-and-wellness.netlify.app/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Serenity-Spa-and-Wellness.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/eqvtqihyqm)
+
+Elegant spa website with smooth animations.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🍽️ [Omnifood](https://omnifoodbydarkoray.netlify.app/)
+
+AI meal subscription service landing page.
+
+</td>
+<td width="33%" valign="top">
+
+#### 🐾 [Virtual Pet Cafe](https://darkoray.github.io/virtual-pet-cafe/)
+
+My first webpage - a simple pet cafe.
+
+<br/>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 </div>
@@ -104,13 +232,16 @@ const darkoray = {
 ### 🎯 Currently Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🔮 Future Goals
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 ### 🤔 Interested In
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
