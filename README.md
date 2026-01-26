@@ -47,132 +47,6 @@ const darkoray = {
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2>🚀 My Projects</h2>
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### ✊✋✌️ [Rock Paper Scissors](https://darkoray.github.io/Rock-Paper-Scissors/) [![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4)
-
-Classic game against the computer.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🧠 [React Quiz](https://darkoray.github.io/react-quiz/)
-
-Interactive React quiz with timer and high scores.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🍿 [usePopcorn](https://darkoray.github.io/usePopcorn/)
-
-Movie rating app with watchlist using OMDb API.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-#### 🌴 [Far Away](https://darkoray.github.io/Far-Away-App/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Far-Away-App.svg)](https://wakatime.com/badge/github/Darkoray/Far-Away-App)
-
-Travel packing list with progress tracking.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🍴 [Forkify](https://github.com/Darkoray/Forkify) [![wakatime](https://wakatime.com/badge/github/Darkoray/forkify-app.svg)](https://wakatime.com/badge/github/Darkoray/forkify-app)
-
-Recipe search app with bookmarking.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🗺️ [Mapty](https://darkoray.github.io/Mapty/)
-
-Geo-based workout tracker on interactive map.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-#### 🧮 [Calculator](https://darkoray.github.io/Calculator/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Calculator.svg)](https://wakatime.com/badge/github/Darkoray/Calculator)
-
-Functional calculator with keyboard support.
-
-</td>
-<td width="33%" valign="top">
-
-#### ❌⭕ [Tic-Tac-Toe](https://darkoray.github.io/Tic-tac-toe/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe.svg)](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe)
-
-Classic tic-tac-toe with DOM manipulation.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🔢 [Guess the Number](https://darkoray.github.io/Guess-the-number/)
-
-Number guessing game with score tracking.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-#### 🎲 [Pig Game](https://darkoray.github.io/pig-game/)
-
-Two-player dice game. First to 100 wins!
-
-</td>
-<td width="33%" valign="top">
-
-#### 🏔️ [Natours](https://darkoray.github.io/Natours/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Natours.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/mqaufpkmyc)
-
-Adventure tour site with Sass and animations.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🧘 [Serenity Spa](https://serenity-spa-and-wellness.netlify.app/) [![wakatime](https://wakatime.com/badge/github/Darkoray/Serenity-Spa-and-Wellness.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/eqvtqihyqm)
-
-Elegant spa website with smooth animations.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-#### 🍽️ [Omnifood](https://omnifoodbydarkoray.netlify.app/)
-
-AI meal subscription service landing page.
-
-</td>
-<td width="33%" valign="top">
-
-#### 🐾 [Virtual Pet Cafe](https://darkoray.github.io/virtual-pet-cafe/)
-
-My first webpage - a simple pet cafe.
-
-<br/>
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
-<div align="center">
   <h2>📊 GitHub Analytics</h2>
 </div>
 
@@ -211,41 +85,238 @@ My first webpage - a simple pet cafe.
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2>💻 Tech Stack & Tools</h2>
+  <h2>🚀 My Projects</h2>
 </div>
 
 <div align="center">
 
-### 🚀 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🛠️ Tools & Platforms
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 🗺️ [WorldWise](https://github.com/Darkoray/worldwise)
 
-### 🎯 Currently Learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Track your adventures around the world with an interactive map.
 
+[**See Repo →**](https://github.com/Darkoray/worldwise)
 
-### 🔮 Future Goals
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
+#### 💰 [Eat-n-Split](https://github.com/Darkoray/eat-n-split)
+[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4b2fe818-99ec-49ed-8f2f-188be82511df.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4b2fe818-99ec-49ed-8f2f-188be82511df)
 
-### 🤔 Interested In
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+Split bills with friends easily and fairly.
+
+[**See Repo →**](https://github.com/Darkoray/eat-n-split)
+
+</td>
+<td width="33%" valign="top">
+
+#### ✊✋✌️ [Rock Paper Scissors](https://darkoray.github.io/Rock-Paper-Scissors/)
+[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4)
+
+Classic game against the computer.
+
+[**See Repo →**](https://github.com/Darkoray/Rock-Paper-Scissors)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🧠 [React Quiz](https://darkoray.github.io/react-quiz/)
+
+Interactive React quiz with timer and high scores.
+
+[**See Repo →**](https://github.com/Darkoray/react-quiz)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🍿 [usePopcorn](https://darkoray.github.io/usePopcorn/)
+
+Movie rating app with watchlist using OMDb API.
+
+[**See Repo →**](https://github.com/Darkoray/usePopcorn)
+
+</td>
+<td width="33%" valign="top">
+
+#### 📝 [Word Bounty](https://github.com/Darkoray/word-bounty)
+
+Engaging word game challenge your vocabulary.
+
+[**See Repo →**](https://github.com/Darkoray/word-bounty)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🌴 [Far Away](https://darkoray.github.io/Far-Away-App/)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Far-Away-App.svg)](https://wakatime.com/badge/github/Darkoray/Far-Away-App)
+
+Travel packing list with progress tracking.
+
+[**See Repo →**](https://github.com/Darkoray/Far-Away-App)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🍴 [Forkify](https://github.com/Darkoray/forkify-app)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/forkify-app.svg)](https://wakatime.com/badge/github/Darkoray/forkify-app)
+
+Recipe search app with bookmarking.
+
+[**See Repo →**](https://github.com/Darkoray/forkify-app)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗺️ [Mapty](https://darkoray.github.io/Mapty/)
+
+Geo-based workout tracker on interactive map.
+
+[**See Repo →**](https://github.com/Darkoray/Mapty)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🧮 [Calculator](https://darkoray.github.io/Calculator/)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Calculator.svg)](https://wakatime.com/badge/github/Darkoray/Calculator)
+
+Functional calculator with keyboard support.
+
+[**See Repo →**](https://github.com/Darkoray/Calculator)
+
+</td>
+<td width="33%" valign="top">
+
+#### ❌⭕ [Tic-Tac-Toe](https://darkoray.github.io/Tic-tac-toe/)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe.svg)](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe)
+
+Classic tic-tac-toe with DOM manipulation.
+
+[**See Repo →**](https://github.com/Darkoray/Tic-tac-toe)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔢 [Guess the Number](https://darkoray.github.io/Guess-the-number/)
+
+Number guessing game with score tracking.
+
+[**See Repo →**](https://github.com/Darkoray/Guess-the-number)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🎲 [Pig Game](https://darkoray.github.io/pig-game/)
+
+Two-player dice game. First to 100 wins!
+
+[**See Repo →**](https://github.com/Darkoray/pig-game)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🏔️ [Natours](https://darkoray.github.io/Natours/)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Natours.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/mqaufpkmyc)
+
+Adventure tour site with Sass and animations.
+
+[**See Repo →**](https://github.com/Darkoray/Natours)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧘 [Serenity Spa](https://serenity-spa-and-wellness.netlify.app/)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Serenity-Spa-and-Wellness.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/eqvtqihyqm)
+
+Elegant spa website with smooth animations.
+
+[**See Repo →**](https://github.com/Darkoray/Serenity-Spa-and-Wellness)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 🍽️ [Omnifood](https://omnifoodbydarkoray.netlify.app/)
+[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4f35b9b3-35b0-4eaf-b88d-c253995f630a.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4f35b9b3-35b0-4eaf-b88d-c253995f630a)
+
+AI meal subscription service landing page.
+
+[**See Repo →**](https://github.com/Darkoray/Omnifood-Project)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🐾 [Virtual Pet Cafe](https://darkoray.github.io/virtual-pet-cafe/)
+
+My first webpage - a simple pet cafe.
+
+[**See Repo →**](https://github.com/Darkoray/virtual-pet-cafe)
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>💻 Tech Stack & Tools</h2>
+</div>
+
+<div align="left">
+
+**🚀 Technologies** • ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🛠️ Tools & Platforms** • ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+**🎯 Currently Learning** • ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**🔮 Future Goals** • ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+**🤔 Interested In** • ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>🌐 Let's Connect!</h2>
+</div>
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/soadul.islam.71)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soadul.islam.71)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soadul-islam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/darkoray69)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/743413210517995530)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soadulislam1234@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27353268)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Darkoray)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Darkoray69)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801312211260)
 
 </div>
 
@@ -262,32 +333,6 @@ My first webpage - a simple pet cafe.
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
-
-<div align="center">
-  <h2>🌐 Let's Connect!</h2>
-</div>
-
-<div align="center">
-  
-  ### 💬 Social Media
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/soadul.islam.71)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soadul.islam.71)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/darkoray69)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soadul-islam)
-  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Darkoray69)
-  
-  ### 💼 Professional
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27353268)
-  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Darkoray)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soadulislam1234@gmail.com)
-  
-  ### 💻 Chat & Gaming
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/743413210517995530)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801312211260)
-
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 ## 📈 Contribution Graph
