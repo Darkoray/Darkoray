@@ -92,191 +92,197 @@ const darkoray = {
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🗺️ [WorldWise](https://github.com/Darkoray/worldwise)
+### 🗺️ WorldWise
 
 Track your adventures around the world with an interactive map.
 
-[**See Repo →**](https://github.com/Darkoray/worldwise)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://worldwise-by-darkoray.netlify.app/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/worldwise)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 💰 [Eat-n-Split](https://github.com/Darkoray/eat-n-split)
-[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4b2fe818-99ec-49ed-8f2f-188be82511df.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4b2fe818-99ec-49ed-8f2f-188be82511df)
+### 💰 Eat-n-Split
+
+[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4b2fe818-99ec-49ed-8f2f-188be82511df.svg?style=flat-square)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4b2fe818-99ec-49ed-8f2f-188be82511df)
 
 Split bills with friends easily and fairly.
 
-[**See Repo →**](https://github.com/Darkoray/eat-n-split)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/eat-n-split/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/eat-n-split)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### ✊✋✌️ [Rock Paper Scissors](https://darkoray.github.io/Rock-Paper-Scissors/)
-[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4)
+### ✊ Rock Paper Scissors
+
+[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4.svg?style=flat-square)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/f19a7633-f637-42a8-82c1-3e23d6ec5eb4)
 
 Classic game against the computer.
 
-[**See Repo →**](https://github.com/Darkoray/Rock-Paper-Scissors)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Rock-Paper-Scissors/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Rock-Paper-Scissors)
 
 </td>
-</tr>
+<td width="25%" valign="top">
 
-<tr>
-<td width="33%" valign="top">
-
-#### 🧠 [React Quiz](https://darkoray.github.io/react-quiz/)
+### 🧠 React Quiz
 
 Interactive React quiz with timer and high scores.
 
-[**See Repo →**](https://github.com/Darkoray/react-quiz)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/react-quiz/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/react-quiz)
 
 </td>
-<td width="33%" valign="top">
+</tr>
 
-#### 🍿 [usePopcorn](https://darkoray.github.io/usePopcorn/)
+<tr>
+<td width="25%" valign="top">
+
+### 🍿 usePopcorn
 
 Movie rating app with watchlist using OMDb API.
 
-[**See Repo →**](https://github.com/Darkoray/usePopcorn)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/usePopcorn/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/usePopcorn)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 📝 [Word Bounty](https://github.com/Darkoray/word-bounty)
+### 🌴 Far Away
 
-Engaging word game challenge your vocabulary.
-
-[**See Repo →**](https://github.com/Darkoray/word-bounty)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-#### 🌴 [Far Away](https://darkoray.github.io/Far-Away-App/)
-[![wakatime](https://wakatime.com/badge/github/Darkoray/Far-Away-App.svg)](https://wakatime.com/badge/github/Darkoray/Far-Away-App)
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Far-Away-App.svg?style=flat-square)](https://wakatime.com/badge/github/Darkoray/Far-Away-App)
 
 Travel packing list with progress tracking.
 
-[**See Repo →**](https://github.com/Darkoray/Far-Away-App)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Far-Away-App/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Far-Away-App)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🍴 [Forkify](https://github.com/Darkoray/forkify-app)
-[![wakatime](https://wakatime.com/badge/github/Darkoray/forkify-app.svg)](https://wakatime.com/badge/github/Darkoray/forkify-app)
+### 🍴 Forkify
+
+[![wakatime](https://wakatime.com/badge/github/Darkoray/forkify-app.svg?style=flat-square)](https://wakatime.com/badge/github/Darkoray/forkify-app)
 
 Recipe search app with bookmarking.
 
-[**See Repo →**](https://github.com/Darkoray/forkify-app)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/forkify-app)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🗺️ [Mapty](https://darkoray.github.io/Mapty/)
+### 🗺️ Mapty
 
 Geo-based workout tracker on interactive map.
 
-[**See Repo →**](https://github.com/Darkoray/Mapty)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Mapty/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Mapty)
 
 </td>
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🧮 [Calculator](https://darkoray.github.io/Calculator/)
-[![wakatime](https://wakatime.com/badge/github/Darkoray/Calculator.svg)](https://wakatime.com/badge/github/Darkoray/Calculator)
+### 🧮 Calculator
+
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Calculator.svg?style=flat-square)](https://wakatime.com/badge/github/Darkoray/Calculator)
 
 Functional calculator with keyboard support.
 
-[**See Repo →**](https://github.com/Darkoray/Calculator)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Calculator/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Calculator)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### ❌⭕ [Tic-Tac-Toe](https://darkoray.github.io/Tic-tac-toe/)
-[![wakatime](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe.svg)](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe)
+### ❌⭕ Tic-Tac-Toe
+
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe.svg?style=flat-square)](https://wakatime.com/badge/github/Darkoray/Tic-tac-toe)
 
 Classic tic-tac-toe with DOM manipulation.
 
-[**See Repo →**](https://github.com/Darkoray/Tic-tac-toe)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Tic-tac-toe/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Tic-tac-toe)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🔢 [Guess the Number](https://darkoray.github.io/Guess-the-number/)
+### 🔢 Guess Number
 
 Number guessing game with score tracking.
 
-[**See Repo →**](https://github.com/Darkoray/Guess-the-number)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Guess-the-number/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Guess-the-number)
 
 </td>
-</tr>
+<td width="25%" valign="top">
 
-<tr>
-<td width="33%" valign="top">
-
-#### 🎲 [Pig Game](https://darkoray.github.io/pig-game/)
+### 🎲 Pig Game
 
 Two-player dice game. First to 100 wins!
 
-[**See Repo →**](https://github.com/Darkoray/pig-game)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🏔️ [Natours](https://darkoray.github.io/Natours/)
-[![wakatime](https://wakatime.com/badge/github/Darkoray/Natours.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/mqaufpkmyc)
-
-Adventure tour site with Sass and animations.
-
-[**See Repo →**](https://github.com/Darkoray/Natours)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🧘 [Serenity Spa](https://serenity-spa-and-wellness.netlify.app/)
-[![wakatime](https://wakatime.com/badge/github/Darkoray/Serenity-Spa-and-Wellness.svg)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/eqvtqihyqm)
-
-Elegant spa website with smooth animations.
-
-[**See Repo →**](https://github.com/Darkoray/Serenity-Spa-and-Wellness)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/pig-game/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/pig-game)
 
 </td>
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🍽️ [Omnifood](https://omnifoodbydarkoray.netlify.app/)
-[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4f35b9b3-35b0-4eaf-b88d-c253995f630a.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4f35b9b3-35b0-4eaf-b88d-c253995f630a)
+### 🏔️ Natours
+
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Natours.svg?style=flat-square)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/mqaufpkmyc)
+
+Adventure tour site with Sass and animations.
+
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/Natours/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Natours)
+
+</td>
+<td width="25%" valign="top">
+
+### 🧘 Serenity Spa
+
+[![wakatime](https://wakatime.com/badge/github/Darkoray/Serenity-Spa-and-Wellness.svg?style=flat-square)](https://wakatime.com/@72594c02-0009-4d68-ba8b-6bc52b500d86/projects/eqvtqihyqm)
+
+Elegant spa website with smooth animations.
+
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://serenity-spa-and-wellness.netlify.app/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Serenity-Spa-and-Wellness)
+
+</td>
+<td width="25%" valign="top">
+
+### 🍽️ Omnifood
+
+[![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4f35b9b3-35b0-4eaf-b88d-c253995f630a.svg?style=flat-square)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/4f35b9b3-35b0-4eaf-b88d-c253995f630a)
 
 AI meal subscription service landing page.
 
-[**See Repo →**](https://github.com/Darkoray/Omnifood-Project)
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://omnifoodbydarkoray.netlify.app/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/Omnifood-Project)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-#### 🐾 [Virtual Pet Cafe](https://darkoray.github.io/virtual-pet-cafe/)
+### 🐾 Pet Cafe
 
 My first webpage - a simple pet cafe.
 
-[**See Repo →**](https://github.com/Darkoray/virtual-pet-cafe)
-
-</td>
-<td width="33%" valign="top">
+[![Website](https://img.shields.io/badge/Website-0086bf?style=flat-square&logo=chrome&logoColor=white)](https://darkoray.github.io/virtual-pet-cafe/)
+[![Repo](https://img.shields.io/badge/Repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Darkoray/virtual-pet-cafe)
 
 </td>
 </tr>
-
 </table>
 
 </div>
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
